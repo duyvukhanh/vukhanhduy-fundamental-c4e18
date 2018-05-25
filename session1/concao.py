@@ -1,0 +1,1 @@
+print(type("C4E18"))
